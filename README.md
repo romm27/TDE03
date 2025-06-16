@@ -4,7 +4,7 @@
 
 Este projeto consiste na implementação e análise de desempenho de dois algoritmos de ordenação: **Gnome Sort** e **Quick Sort**. O objetivo é comparar empiricamente a eficiência de diferentes algoritmos.
 
-A análise foi realizada em Java, seguindo as restrições do professor, como a proibição de uso de funções prontas do java como .length.
+A análise foi realizada em Java, seguindo as restrições do professor.
 
 As métricas avaliadas foram:
 *   **Tempo de execução (em milissegundos)**
