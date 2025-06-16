@@ -86,3 +86,9 @@ Conclui-se que, enquanto algoritmos simples como o Gnome Sort são úteis para f
 ## 7. Autor
 
 *   **Giovanni Galarda Strasser**
+
+
+## 8. Vídeo de Apresentação
+
+*   **Link para o Vídeo:** [https://youtu.be/U99JO5vLces](https://youtu.be/U99JO5vLces)
+
