@@ -90,5 +90,5 @@ Conclui-se que, enquanto algoritmos simples como o Gnome Sort são úteis para f
 
 ## 8. Vídeo de Apresentação
 
-*   **Link para o Vídeo:** [https://youtu.be/U99JO5vLces](https://youtu.be/U99JO5vLces)
+*   **Link para o Vídeo:** https://www.youtube.com/watch?v=1z0YaY0a4HM
 
